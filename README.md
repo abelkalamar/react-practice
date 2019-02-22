@@ -3,6 +3,6 @@ React learning tasks
 
 Apps which: 
 
-- change backgorund according to current month and user location
+- change background according to current month and user location
 - show searched images
 - youtube video viewer
